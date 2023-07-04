@@ -1,0 +1,23 @@
+Zz7IviULnyHACL2FNfkKK1zOUHhKOJMlyrwm1ivf61M=
+README.md 2023-06-21T20:41:02Z
+pom.xml 2023-07-01T03:27:07.674450Z
+src/main/java/Main.java 2023-07-04T04:00:54.663907Z
+src/main/java/OAuthMain.java 2023-06-21T20:41:02Z
+src/main/java/listeners/ListenerProvider.java 2023-06-21T20:41:02Z
+src/main/java/listeners/Listeners.java 2023-07-04T03:19:11.747804Z
+src/main/java/listeners/actions/ActionListeners.java 2023-06-21T20:41:02Z
+src/main/java/listeners/actions/SampleBlockActionListener.java 2023-06-21T20:41:02Z
+src/main/java/listeners/commands/CommandListeners.java 2023-06-21T20:41:02Z
+src/main/java/listeners/commands/SampleCommandListener.java 2023-06-21T20:41:02Z
+src/main/java/listeners/events/AppHomeOpenedListener.java 2023-06-21T20:41:02Z
+src/main/java/listeners/events/EventListeners.java 2023-07-04T07:28:37.699897Z
+src/main/java/listeners/messages/MessageListeners.java 2023-06-21T20:41:02Z
+src/main/java/listeners/messages/SampleMessageListener.java 2023-06-21T20:41:02Z
+src/main/java/listeners/shortcuts/SampleGlobalShortcutListener.java 2023-07-04T06:24:15.529859Z
+src/main/java/listeners/shortcuts/ShortcutListeners.java 2023-07-04T06:24:19.197976Z
+src/main/java/listeners/views/SampleViewListener.java 2023-06-21T20:41:02Z
+src/main/java/listeners/views/ViewListeners.java 2023-06-21T20:41:02Z
+src/main/java/utils/Constants.java 2023-06-21T20:41:02Z
+src/main/java/utils/MeetingArrangement.java 2023-06-21T20:41:02Z
+src/test/java/listeners/commands/SampleCommandListenerTest.java 2023-06-21T20:41:02Z
+src/test/java/listeners/messages/SampleMessageListenerTest.java 2023-06-21T20:41:02Z
